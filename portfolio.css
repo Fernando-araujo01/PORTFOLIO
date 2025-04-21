@@ -106,6 +106,12 @@ body{
 }
 
 
+section{
+
+    cursor: default;
+}
+
+
 section h2{
     width:100%;
     font-size:50px;
