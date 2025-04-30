@@ -73,10 +73,36 @@
   
     
   footer {
+
     text-align: center;
-    padding: 30px 10px;
-    color: #ccc;
+    padding: 20px;
 
   }
 
+#projetos {
+  
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+#projetos a{
+  text-decoration: none;
+  border: 10px solid #00FFCC;
+  border-radius: 50px;
+  color: black;
+  background: #00FFCC;
+
+}
+
+#projetos a:hover{
+
+  cursor: pointer;
+  border:15px solid #00FFCC;
+
+
+}
 
