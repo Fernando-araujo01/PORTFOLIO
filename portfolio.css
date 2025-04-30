@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -20,12 +21,12 @@
   
   header h1 {
     font-size: 2em;
-    color: #fff;
+    color: white;
   }
   
   header p {
     font-size: 1em;
-    color: #ccc;
+    color: white;
   }
   
   nav ul {
@@ -142,4 +143,10 @@
     text-align: center;
     padding: 30px 10px;
     color: #ccc;
+  }
+
+  #escrita{
+
+    color: #00FFCC;
+
   }
