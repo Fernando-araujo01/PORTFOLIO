@@ -10,6 +10,7 @@
     background-image: url(IMG/neon.avif);    
     background-size: cover;
     background-attachment: fixed;
+
   }
   
   header {
@@ -79,3 +80,16 @@
     color: #ccc;
 
   }
+
+.sobremim{
+  color:white;
+  background: ;
+  text-align:center;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  width: auto;
+  height: auto;
+  margin-left: 10%;  
+  margin-right: 10%;
+}
